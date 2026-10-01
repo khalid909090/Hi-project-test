@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">تطبيقي الأول</string>
+    <string name="welcome_title">مرحباً بك</string>
+    <string name="welcome_subtitle">هذا أول تطبيق Android لي</string>
+    <string name="button_text">اضغط هنا</string>
+    <string name="greeting_message">أهلاً وسهلاً بك في تطبيقك الأول 👋</string>
+</resources>
